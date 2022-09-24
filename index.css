@@ -1,0 +1,9 @@
+.Nav{
+    background-color: black;
+}
+.search{
+    border: 2px rgb(238, 11, 11) solid;
+    /* width: 100px; */
+    height: 500px;
+}
+
